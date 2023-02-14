@@ -1,2 +1,4 @@
-# CS290-W23-HW7-Abdulrhman_Al-Wehib
-Group B
+#Abdulrhman Abdulaziz Al-Wehib
+#Fawaz Muhammed Al-Mufti
+#Abdullah Alsubaie
+#Fahad Al-Mutairi
